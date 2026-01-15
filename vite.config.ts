@@ -59,7 +59,6 @@
       },
     },
     build: {
-      target: 'esnext',
       outDir: 'build',
     },
     server: {
