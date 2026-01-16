@@ -140,7 +140,7 @@ export function Home() {
                     backgroundColor: "rgba(246, 146, 30, 0.2)",
                   }}
                 >
-                  Accounting • Tax • Advisory
+                  Public Accounting • Tax • Advisory
                 </span>
               </div>
             </AnimatedSection>
@@ -158,7 +158,7 @@ export function Home() {
                 control, and peace of mind to individuals and
                 business owners throughout <strong className="text-white">Southwest Florida</strong>.
                 Serving <strong className="text-white">Venice, Sarasota, Bradenton, North Port, and Sarasota County</strong>—we're 
-                your trusted <strong className="text-white">CPA firm and financial advisors</strong> for 
+                your trusted <strong className="text-white">PA firm and financial advisors</strong> for 
                 tax planning, bookkeeping, payroll, and business consulting.
               </p>
             </AnimatedSection>
