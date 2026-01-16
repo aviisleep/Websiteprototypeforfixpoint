@@ -102,9 +102,9 @@ export function Home() {
   return (
     <div className="min-h-screen">
       <SEO
-        title="CPA & Accounting Firm in Venice, Sarasota & Bradenton FL | Tax Services | FixPoint"
-        description="Expert CPA and accounting services in Venice, Sarasota, Bradenton & North Port, FL. Tax preparation, bookkeeping, payroll, QuickBooks consulting and business advisory. Serving Southwest Florida for 20+ years. Free consultation available."
-        keywords="accountant Venice FL, CPA Sarasota, tax services Bradenton, accounting firm Sarasota County, bookkeeping Venice Florida, business advisor Southwest Florida, tax planning Sarasota, financial consulting Venice, QuickBooks Bradenton, CFO advisory North Port"
+        title="PA & Accounting Firm in Venice, Sarasota & Bradenton FL | Tax Services | FixPoint"
+        description="Expert PA and accounting services in Venice, Sarasota, Bradenton & North Port, FL. Tax preparation, bookkeeping, payroll, QuickBooks consulting and business advisory. Serving Southwest Florida for 20+ years. Free consultation available."
+        keywords="accountant Venice FL, PA Sarasota, tax services Bradenton, accounting firm Sarasota County, bookkeeping Venice Florida, business advisor Southwest Florida, tax planning Sarasota, financial consulting Venice, QuickBooks Bradenton, CFO advisory North Port"
         ogImage="https://images.unsplash.com/photo-1455382054916-9c12746cfb43?w=1200&h=630&fit=crop"
       />
       <StructuredData />
