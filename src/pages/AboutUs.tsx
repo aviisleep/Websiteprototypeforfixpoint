@@ -55,7 +55,7 @@ export function AboutUs() {
       <SEO
         title="About FixPoint | Venice, Sarasota & Bradenton Accounting Firm"
         description="Meet FixPoint Accounting & Advisory—your trusted local partner in Southwest Florida. Serving Venice, Sarasota, Bradenton & North Port with expert accounting, tax, and business consulting services since 2010."
-        keywords="accounting firm Venice FL, CPA firm Sarasota, business advisors Bradenton, local accountant Sarasota County, Venice financial consultants, Southwest Florida accounting, tax advisors Venice, bookkeeping Sarasota"
+        keywords="accounting firm Venice FL, PA firm Sarasota, business advisors Bradenton, local accountant Sarasota County, Venice financial consultants, Southwest Florida accounting, tax advisors Venice, bookkeeping Sarasota"
         ogImage="https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1200&h=630&fit=crop"
       />
       

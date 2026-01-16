@@ -88,7 +88,7 @@ export function NavbarInnovative() {
                 whileHover={{ scale: 1.05 }}
               >
                 <MapPin className="w-3 h-3" />
-                <span className="font-inter hidden lg:inline">Venice, FL</span>
+                <span className="font-inter hidden lg:inline">Sarasota, FL</span>
               </motion.span>
             </div>
             
